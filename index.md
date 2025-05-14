@@ -1,3 +1,3 @@
-# H1 Header
+# Yaktocat
 
-Added a header to index.md
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
